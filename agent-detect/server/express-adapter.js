@@ -10,8 +10,11 @@ import { identifyAgent } from "./identify-agent.js";
 export function toFetchRequest(req) {
   // Use the public host/scheme the agent actually signed, not your internal one.
   // Only trust X-Forwarded-* if they are set by your own proxy/CDN (app.set("trust proxy", ...)).
+  // req.protocol already applies the "trust proxy" setting; X-Forwarded-Host must too, or any
+  // client could replay a signature made for another site by naming that site's host here.
   const proto = req.protocol;
-  const host = req.get("x-forwarded-host") || req.get("host");
+  const fromTrustedProxy = req.app.get("trust proxy fn")(req.socket.remoteAddress, 0);
+  const host = (fromTrustedProxy && req.get("x-forwarded-host")) || req.get("host");
   const headers = new Headers();
   for (const [k, v] of Object.entries(req.headers)) {
     if (v !== undefined) headers.set(k, Array.isArray(v) ? v.join(", ") : v);

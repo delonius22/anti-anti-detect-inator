@@ -1,0 +1,25 @@
+[Unit]
+Description=Agent detect demo (behind nginx, see deploy/DEMO.md)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=agentdemo
+Group=agentdemo
+WorkingDirectory=/opt/agent-demo
+# /opt is read-only under ProtectSystem=strict, so the database must live in /var/lib.
+Environment=NODE_ENV=production
+Environment=DEMO_DB_PATH=/var/lib/agent-demo/demo.db
+Environment=DEMO_RETENTION_DAYS=90
+# Optional overrides (TRUST_PROXY, DEMO_RETENTION_DAYS, PORT); the leading "-" means it may be absent.
+EnvironmentFile=-/etc/agent-demo.env
+ExecStart=/usr/bin/node server/demo.js
+Restart=on-failure
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/agent-demo
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# SQLite databases (demo.db, visits.db) and their WAL/SHM files
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Local data from scripts/dev.js, IP databases, bot IP list updates
+dev-data/
+*.mmdb
+*.json.new
+
+# Analysis outputs and exports (analysis/example-report/ stays tracked)
+phase6/
+phase6-report/
+visits.jsonl
+visits.csv
+
+# Secrets: real env files (capture-app.env.example stays tracked)
+*.env
+.env*
+!*.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
