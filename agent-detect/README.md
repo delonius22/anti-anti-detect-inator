@@ -40,7 +40,7 @@ hostname with `known: false`.
 | `server/declared-bots.js` | Bot user-agent tokens checked against operator-published IP lists (N2). |
 | `scripts/` | `update-bot-ips.js` (N2 lists), `export-visits.js` (CSV/JSONL export + per-cohort flag rates). |
 | `Dockerfile`, `compose.yaml`, `docker/` | The demo and its nginx as hardened containers; `deploy/DOCKER.md` takes it from local to live. |
-| `deploy/` | `DOCKER.md`, `DEMO.md` and `agent-demo.service` (demo behind stock nginx), `LOCAL.md`, `DEPLOY.md`, `build-nginx.sh`, `selfsigned-cert.sh`, `update-geoip.sh`, systemd units and weekly timer, env template. |
+| `deploy/` | `DOCKER.md`, `backup-demo.sh` (weekly backup of the demo's reports), `DEMO.md` and `agent-demo.service` (demo behind stock nginx), `LOCAL.md`, `DEPLOY.md`, `build-nginx.sh`, `selfsigned-cert.sh`, `update-geoip.sh`, systemd units and weekly timer, env template. |
 | `analysis/` | Python Phase 6 toolkit: signal grading, weight fitting, the System 1 model (trains `model.json`), P1–P5 (device-ID linkage, rarity, impossible combinations), exit criteria report (`analysis/README.md`). |
 | `test/` | `npm test` (signatures), `npm run test:probes` (probe bundle and C12), `npm run test:geo` (needs `GEO_TEST_DIR`), `npm run test:capture` (needs `NGINX_BIN`), `npm run test:model` (Node vs Python parity), `npm run e2e`. |
 
