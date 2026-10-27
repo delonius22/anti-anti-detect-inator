@@ -1,0 +1,8 @@
+# Allowlist: only what the two images copy. Keeps databases, .env and node_modules out of the build.
+*
+!package.json
+!package-lock.json
+!server/
+!client/agent-detect.js
+!nginx/demo.conf
+!docker/
