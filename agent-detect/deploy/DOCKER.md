@@ -115,11 +115,20 @@ curl -s --max-time 5 http://demo.example.com:3000/ || echo "OK: app port not rea
 ### 10. Before real visitors use it
 
 - **Privacy notice:** each report stores the visitor's IP address and browser details. Publish a notice, and set `DEMO_RETENTION_DAYS` in `.env` to match it (default 90), then `docker compose up -d`.
-- **Backups:** run this on a schedule, then copy the file off the server:
+- **Backups:** `deploy/backup-demo.sh` makes a checked copy of the database while the app runs. It writes `~/agent-demo-backups/demo-YYYY-MM-DD.db`, readable only by you, and keeps the newest 8. Run it once by hand, then schedule it weekly with `crontab -e`:
+  ```
+  15 3 * * 0 $HOME/agent-demo/agent-detect/deploy/backup-demo.sh >> $HOME/agent-demo-backups/backup.log 2>&1
+  ```
+  Copies on the server don't survive losing the server, so pull them to your own computer weekly too. Add this to your computer's `crontab -e`, an hour after the server's backup:
+  ```
+  15 4 * * 0 rsync -a deploy@demo.example.com:agent-demo-backups/ $HOME/agent-demo-backups/
+  ```
+  To restore a copy, stop the app, then replace `demo.db` and remove its old `-wal`/`-shm` files. Left in place, those would be replayed onto the restored copy. The one-off container runs as the app's user, so the file gets the right owner:
   ```bash
-  docker compose exec app node -e 'const s = require("node:sqlite");
-    s.backup(new s.DatabaseSync("/data/demo.db"), "/data/backup.db").then((p) => console.log("backed up", p, "pages"))'
-  docker compose cp app:/data/backup.db ./demo-$(date +%F).db && docker compose exec app rm /data/backup.db
+  docker compose stop app
+  docker compose run --rm --no-deps -T -v "$HOME/agent-demo-backups/demo-YYYY-MM-DD.db:/restore.db:ro" app \
+    sh -c 'cp /restore.db /data/demo.db && rm -f /data/demo.db-wal /data/demo.db-shm'
+  docker compose start app
   ```
 - **Known agents:** any agent that signs with Web Bot Auth comes back as `verified-agent`. Add the ones you trust to `KNOWN_SIGNERS` in `server/identify-agent.js`, then rebuild.
 - **One app container:** replayed signatures are tracked in memory. Don't scale `app` past 1 without moving that cache to Redis.
