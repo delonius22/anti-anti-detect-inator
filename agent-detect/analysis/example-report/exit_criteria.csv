@@ -1,0 +1,8 @@
+criterion,status,detail
+N1 verifies all signed C3 sessions,PASS,100% of 40 signed C3 visits verified; forged and replayed cases are covered by `npm test`
+Capture completeness >= 99%,PASS,all fields complete
+Precision >= 98% for suspected-agent (hold-out),PASS,"100.0% on 130 held-out visits (by run date: 2026-09-14..2026-10-13 fit, 2026-10-14..2026-10-25 test)"
+C2 false positives <= 2% for suspected-agent,PASS,0.0% of held-out C2 visits
+Precision >= 98% for anti-detect (hold-out),PASS,"100.0% on 100 held-out visits (by run date: 2026-09-14..2026-10-13 fit, 2026-10-14..2026-10-25 test)"
+C2 false positives <= 2% for anti-detect,PASS,0.0% of held-out C2 visits
+Reproduced on a run 28+ days later,FAIL,23 strong or supporting signals in the first window; dropped later: C12-worker-ua-vs-http-ua

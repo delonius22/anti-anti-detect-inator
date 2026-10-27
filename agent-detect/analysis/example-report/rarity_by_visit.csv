@@ -1,0 +1,601 @@
+visit_id,cohort,tool,attrs_scored,surprisal_bits_mean,surprisal_bits_total,unseen_values,unseen_attrs,surprisal_pct_vs_people,impossible_pairs,impossible_detail
+ZzAQlxJ4SXRVxfCQ,C1,chrome-win,37,3.233,119.6,0,,0.179,0,
+JLl3fZJZ207qc18R,C1,chrome-win,37,6.386,236.3,24,"h:canvasWebgl, h:canvas2d, h:mimeTypes",0.996,0,
+i9n4dte2et68tVkA,C1,chrome-win,37,3.481,128.8,0,,0.429,0,
+ikk6InrWvMG1qxvv,C1,chrome-win,37,3.526,130.5,0,,0.483,0,
+JqTEugnPucbaY7sU,C1,chrome-win,37,5.419,200.5,0,,0.992,0,
+WYwFE32jgGXYueG8,C1,chrome-win,37,3.66,135.4,0,,0.592,0,
+lHuG5P6C7ROUopuF,C1,chrome-win,37,3.255,120.4,0,,0.2,0,
+N19QRSfC27p2y8Z5,C1,chrome-win,37,3.544,131.1,0,,0.5,0,
+UPieGxKZtBGRwWHu,C1,chrome-win,37,3.533,130.7,0,,0.492,0,
+A3RItjD1qFkDGcrG,C1,chrome-win,37,3.526,130.5,0,,0.483,0,
+Uk3LCL67UjM8qDHk,C1,chrome-win,37,3.544,131.1,0,,0.5,0,
+u4y2Ls6mzk40WPjY,C1,chrome-win,37,3.712,137.3,0,,0.625,0,
+UWeqlgjd6n2B2cdO,C1,chrome-win,37,3.655,135.2,0,,0.583,0,
+yHugAwiKect0ZPIu,C1,chrome-win,37,3.528,130.5,0,,0.488,0,
+qeOKHPf2eY2nP1lG,C1,chrome-win,37,3.898,144.2,0,,0.796,0,
+LtCtiGCLiJXkqOaB,C1,chrome-win,37,3.522,130.3,0,,0.467,0,
+jEX8gzPUl1afBN9d,C1,chrome-win,37,3.744,138.5,0,,0.654,0,
+dIOCtW51goGrrTpA,C1,chrome-win,37,3.448,127.6,0,,0.388,0,
+t0NofVorRO3vrMUH,C1,chrome-win,37,3.909,144.6,0,,0.804,0,
+Ir8HqEizTgVxePIx,C1,chrome-win,37,3.646,134.9,0,,0.562,0,
+wJrYK69PwZE0Sp7Z,C1,chrome-win,37,3.68,136.2,0,,0.6,0,
+IhKF7r1ijayAgZbP,C1,chrome-win,37,3.478,128.7,0,,0.421,0,
+pXab92tDrUAkMiJT,C1,chrome-win,37,3.447,127.5,0,,0.383,0,
+Ie7p2yismQUzwV1l,C1,chrome-win,37,3.713,137.4,0,,0.638,0,
+A9rXQAzrFgQ11ilJ,C1,chrome-win,37,4.547,168.2,0,,0.954,0,
+LVuYjMLJ2re3MYYX,C1,chrome-win,37,3.446,127.5,0,,0.379,0,
+78rAfisJUPqpngrU,C1,chrome-win,37,4.394,162.6,0,,0.929,0,
+fH0lc8HmnCspFGxu,C1,chrome-win,37,3.525,130.4,0,,0.475,0,
+BdPhw3Y6aqWIVdty,C1,chrome-win,37,4.379,162.0,0,,0.917,0,
+LPsZJQrBa1tWfOFh,C1,chrome-win,37,3.458,127.9,0,,0.392,0,
+u4Uje1CjocVs9wdL,C1,chrome-win,37,4.381,162.1,0,,0.921,0,
+xitktKi3JTUjkDPO,C1,chrome-win,37,3.442,127.4,0,,0.375,0,
+4rjkoetKGG54IM53,C1,chrome-win,37,3.44,127.3,0,,0.362,0,
+eqeQP2ubl6uouq10,C1,chrome-win,37,3.655,135.2,0,,0.583,0,
+Lxd1Ux0wCpSPQIt2,C1,chrome-win,37,3.764,139.3,0,,0.671,0,
+ndfUggIyiCzlECH2,C1,chrome-win,37,5.399,199.8,0,,0.988,0,
+jxJu8rzayFTCtVTt,C1,chrome-win,37,3.512,129.9,0,,0.458,0,
+XN15ooe0NuynT3sg,C1,chrome-win,37,3.78,139.9,0,,0.675,0,
+4mUpnS6ZaUStcr0H,C1,chrome-win,37,3.235,119.7,0,,0.183,0,
+B8jZbxijsbEObEeW,C1,chrome-win,37,3.904,144.4,0,,0.8,0,
+X8ECIdrGlVTCDsLL,C1,safari-mac,37,5.344,197.7,0,,0.975,0,
+FHvL3RcmkdNhZchJ,C1,safari-mac,37,3.131,115.8,0,,0.108,0,
+RU57YNaEtqXYSs5n,C1,safari-mac,37,3.105,114.9,0,,0.054,0,
+R5RbJQU6gXxDqWgs,C1,safari-mac,37,3.305,122.3,0,,0.246,0,
+uTtLaQEq3QYojp3k,C1,safari-mac,37,3.893,144.0,0,,0.792,0,
+aOX2CcneuCQthpR3,C1,safari-mac,37,3.147,116.4,0,,0.125,0,
+1LE1G4YeZSciJAIy,C1,safari-mac,37,3.379,125.0,0,,0.308,0,
+Koy5N3glR3MOZweb,C1,safari-mac,37,3.127,115.7,0,,0.096,0,
+1gKFKf7Qcdbrcrtl,C1,safari-mac,37,3.315,122.7,0,,0.271,0,
+NlrAVEs9w7TD3zJy,C1,safari-mac,37,3.115,115.3,0,,0.075,0,
+rlj2dv9w9yeOLYuK,C1,safari-mac,37,3.12,115.4,0,,0.079,0,
+rS36RqJy3gTzDpeU,C1,safari-mac,37,3.859,142.8,0,,0.762,0,
+DzK76J59QiG5PfML,C1,safari-mac,37,3.287,121.6,0,,0.221,0,
+OZWd9aZKtgCfa3Qd,C1,safari-mac,37,3.115,115.3,0,,0.075,0,
+FXGiBWEfHZ1rgogB,C1,safari-mac,37,3.891,144.0,0,,0.788,0,
+Z72BoNE4wXsTbgMH,C1,safari-mac,37,3.13,115.8,0,,0.104,0,
+RC8Q14FUk54ycfLn,C1,safari-mac,37,3.305,122.3,0,,0.246,0,
+lX8pH818F3eZOARz,C1,safari-mac,37,3.105,114.9,0,,0.054,0,
+IIv2QQqmGMq0ypQs,C1,safari-mac,37,3.121,115.5,0,,0.088,0,
+NFYB036BBWx7MUFW,C1,safari-mac,37,3.881,143.6,0,,0.779,0,
+LArWZie5m7WkMAnY,C1,safari-mac,37,5.362,198.4,0,,0.979,0,
+KxwjDmIEIsMniMos,C1,safari-mac,37,3.881,143.6,0,,0.779,0,
+lCjjqGySfGheS8y1,C1,safari-mac,37,3.102,114.8,0,,0.046,0,
+CY1WztSltV98PoVv,C1,safari-mac,37,3.381,125.1,0,,0.312,0,
+U9vmiiM4S4hiXcMr,C1,safari-mac,37,3.386,125.3,0,,0.317,0,
+YJICYXTfBKw85klN,C1,safari-mac,37,3.108,115.0,0,,0.062,0,
+xGsVy5fKBiRSGoBF,C1,safari-mac,37,3.315,122.7,0,,0.267,0,
+9RPaTgBenhOapE6e,C1,safari-mac,37,3.356,124.2,0,,0.3,0,
+jZe5GTkcLXnWGI5U,C1,safari-mac,37,3.146,116.4,0,,0.121,0,
+osMzrasjhVBsVQtS,C1,safari-mac,37,3.376,124.9,0,,0.304,0,
+YyfF3nwLc0AE3Ium,C1,safari-mac,37,3.121,115.5,0,,0.083,0,
+NOVBI9PGRRBErEiQ,C1,safari-mac,37,3.298,122.0,0,,0.229,0,
+7ga5QdjAX6MTnme3,C1,safari-mac,37,3.302,122.2,0,,0.233,0,
+t07IhtHgXWnCzOWg,C1,safari-mac,37,3.123,115.5,0,,0.092,0,
+VPom8TZ1ymt0tQXx,C1,safari-mac,37,5.373,198.8,0,,0.983,0,
+J1GokGczqmumVhNk,C1,safari-mac,37,3.128,115.7,0,,0.1,0,
+HF6HeBx7O1jYDzNu,C1,safari-mac,37,3.887,143.8,0,,0.783,0,
+92j4ovXeRJKLxkYA,C1,safari-mac,37,3.144,116.3,0,,0.117,0,
+rhRxc0snULgM0Uqb,C1,safari-mac,37,3.14,116.2,0,,0.112,0,
+FMrUI1PhTKZ0i5Af,C1,safari-mac,37,3.871,143.2,0,,0.771,0,
+Rzdbip93GFPy8uis,C1,chrome-android,37,4.401,162.9,0,,0.933,0,
+b1d0F2uWogbweTlS,C1,chrome-android,37,4.312,159.6,0,,0.892,0,
+s7yjvvq1a4jmqnOa,C1,chrome-android,37,4.287,158.6,0,,0.867,0,
+6PFvLfmlwTVfYxjx,C1,chrome-android,37,5.107,188.9,0,,0.962,0,
+Oru8Om4Mc7QzruZg,C1,chrome-android,37,4.091,151.4,0,,0.838,0,
+V6UqbyVHzjkNqgAh,C1,chrome-android,37,4.319,159.8,0,,0.9,0,
+AyXqeDDQjqT8S6aY,C1,chrome-android,37,4.285,158.5,0,,0.858,0,
+MF9800fAoSmEhGw2,C1,chrome-android,37,4.313,159.6,0,,0.896,0,
+1YaPQO63gtU0oKKy,C1,chrome-android,37,4.369,161.7,0,,0.912,0,
+U7mHkJfGkdtOqL4T,C1,chrome-android,37,4.291,158.8,0,,0.871,0,
+UoPn23ZYrpZVT0B1,C1,chrome-android,37,5.081,188.0,0,,0.958,0,
+me2ofqRAVoFPq3c7,C1,chrome-android,37,4.302,159.2,0,,0.883,0,
+Z7y6hyXH9LU1Z32W,C1,chrome-android,37,4.294,158.9,0,,0.875,0,
+wQyXcRzfkFjw5tlc,C1,chrome-android,37,4.034,149.3,0,,0.821,0,
+6PTc0ca7E5D0DXBp,C1,chrome-android,37,5.128,189.7,0,,0.967,0,
+5WfND3kL8BFOiVeb,C1,chrome-android,37,3.758,139.0,0,,0.658,0,
+ON9uO8TmM8XDQ69l,C1,chrome-android,37,4.276,158.2,0,,0.85,0,
+xUfYWyiTP8c3jdUt,C1,chrome-android,37,4.325,160.0,0,,0.904,0,
+jR9VOWhyCwQb9MZE,C1,chrome-android,37,4.389,162.4,0,,0.925,0,
+jFhwH2R60FMgU3NI,C1,chrome-android,37,4.276,158.2,0,,0.85,0,
+ygipFuDAXfGLDcBm,C1,chrome-android,37,4.285,158.5,0,,0.858,0,
+oHgYCoh1WfEqKG8t,C1,chrome-android,37,3.762,139.2,0,,0.667,0,
+ZrbXcFVAiXMlVmGy,C1,chrome-android,37,4.082,151.0,0,,0.829,0,
+Jyo9JaM20KJ9uAYy,C1,chrome-android,37,3.863,142.9,0,,0.767,0,
+HVUx0fW4B0p8Sxg7,C1,chrome-android,37,4.091,151.4,0,,0.838,0,
+tj2vxNyg4ZNNmvaB,C1,chrome-android,37,6.612,244.6,24,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,0,
+IpbuEdnzg0CTOZ7z,C1,chrome-android,37,4.287,158.6,0,,0.867,0,
+34rLrRJ3Lx9gQSxB,C1,chrome-android,37,3.808,140.9,0,,0.692,0,
+YcT1MmlvQGmm9P5B,C1,chrome-android,37,3.83,141.7,0,,0.721,0,
+3piQ4ZKQeYvdVWC8,C1,chrome-android,37,3.843,142.2,0,,0.754,0,
+jEmy0INUDloGd1N2,C1,chrome-android,37,4.014,148.5,0,,0.817,0,
+KzmZZT43suh8PhJh,C1,chrome-android,37,4.297,159.0,0,,0.879,0,
+4Itjf60lHfQkkAk2,C1,chrome-android,37,3.762,139.2,0,,0.667,0,
+cdJrv9wpXrYFqWWe,C1,chrome-android,37,4.009,148.4,0,,0.812,0,
+Qh999m2gmUO9ocA4,C1,chrome-android,37,4.35,161.0,0,,0.908,0,
+QoStBB75qGO3NZ3Q,C1,chrome-android,37,4.101,151.8,0,,0.842,0,
+212dxbV7RQFCfcST,C1,chrome-android,37,3.797,140.5,0,,0.683,0,
+Jk5xKYG23xSWJBF5,C1,chrome-android,37,3.828,141.6,0,,0.717,0,
+2qdYz7r0A6V4pChe,C1,chrome-android,37,3.815,141.1,0,,0.704,0,
+EkpKaIbmZ9nuMfLy,C1,chrome-android,37,4.066,150.5,0,,0.825,0,
+FiFDNyo7RdAkd6s8,C2,brave,38,3.343,127.0,0,,0.296,0,
+2nakC3dNK0YASgJ2,C2,brave,38,3.427,130.2,0,,0.354,0,
+5AmLYhwTv2GGLVMW,C2,brave,38,3.477,132.1,0,,0.417,0,
+JpFpF8vck13daBRv,C2,brave,38,3.107,118.1,0,,0.058,0,
+qxvdHtRj78UMEPdZ,C2,brave,38,3.094,117.6,0,,0.042,0,
+WMisYrtdEEdKjZaF,C2,brave,38,5.279,200.6,0,,0.971,0,
+2ElQtHblpgVyehsY,C2,brave,38,3.684,140.0,0,,0.608,0,
+bKTUHPJgkXzIYj87,C2,brave,38,3.642,138.4,0,,0.558,0,
+02p23QL5c5TYU71A,C2,brave,38,3.492,132.7,0,,0.446,0,
+riowwkVWggUmtp0O,C2,brave,38,3.084,117.2,0,,0.025,0,
+zRMSLREFTRsdGDof,C2,brave,38,3.838,145.8,0,,0.746,0,
+cQ1GqnmZA59HeKlq,C2,brave,38,3.592,136.5,0,,0.512,0,
+xeDqEUdbvESapJid,C2,brave,38,3.308,125.7,0,,0.254,0,
+PxzUjLxiMpyum9Y5,C2,brave,38,3.65,138.7,0,,0.571,0,
+BwTRx2LXxGBcxWhv,C2,brave,38,3.063,116.4,0,,0.004,0,
+1ZW0TdGtfDokKLLn,C2,brave,38,3.264,124.0,0,,0.204,0,
+5ciOIjLaHqIJlTcw,C2,brave,38,3.635,138.1,0,,0.538,0,
+aPqVeZQ2d6zA8xZT,C2,brave,38,3.836,145.8,0,,0.738,0,
+wT7VuBqAwQoeDZoO,C2,brave,38,3.316,126.0,0,,0.279,0,
+W0bczPS7BV41gn2R,C2,brave,38,3.635,138.1,0,,0.542,0,
+YgU5sm5DUoVbAXe1,C2,brave,38,3.818,145.1,0,,0.708,0,
+i5IizT1002scbT1c,C2,brave,38,3.394,129.0,0,,0.329,0,
+TCeuOgfH7xoSfvip,C2,brave,38,3.656,138.9,0,,0.588,0,
+V5M4ifGqsjK0UVv4,C2,brave,38,3.833,145.7,0,,0.733,0,
+F4qDJXSwLvM2QDAp,C2,brave,38,3.246,123.3,0,,0.192,0,
+R7xue0IHnoQ6S6jw,C2,brave,38,3.204,121.7,0,,0.162,0,
+vetiqPQbjllNy3h7,C2,brave,38,3.477,132.1,0,,0.417,0,
+odJQIsl0FsJemhl4,C2,brave,38,4.493,170.7,0,,0.95,0,
+bk4mNKprNyrccEC9,C2,brave,38,3.831,145.6,0,,0.725,0,
+prMlkC7PCmzOemS4,C2,brave,38,3.441,130.8,0,,0.371,0,
+ORodeqVdKnBnJNUm,C2,brave,38,3.713,141.1,0,,0.629,0,
+ZsmyO2O50e9D29dj,C2,brave,38,3.638,138.3,0,,0.55,0,
+nFSagvV06Zb46GuN,C2,brave,38,3.389,128.8,0,,0.325,0,
+KNfWg0lox14do9xA,C2,brave,38,3.697,140.5,0,,0.612,0,
+aRVCoNuuMugisZq9,C2,brave,38,3.337,126.8,0,,0.292,0,
+lXxX8le278BH6boY,C2,brave,38,3.672,139.5,0,,0.596,0,
+zdsqavPlWsXM7ysn,C2,brave,38,3.481,132.3,0,,0.425,0,
+8HRWWmYk736HCqbW,C2,brave,38,3.389,128.8,0,,0.325,0,
+VHVzP8Rcic31Wn26,C2,brave,38,3.833,145.7,0,,0.729,0,
+FpEe5WltKQ3TqKuw,C2,brave,38,3.415,129.8,0,,0.342,0,
+XD01cLuDomfyrfbw,C2,tor,37,3.5,129.5,0,,0.45,0,
+ZBP8R6GZ8gQZwyB3,C2,tor,37,3.174,117.5,0,,0.142,0,
+ZMzo9zeBxCCRJ6AM,C2,tor,38,3.194,121.4,0,,0.154,0,
+RZcX63QvHigN5QU5,C2,tor,38,3.078,117.0,0,,0.021,0,
+AmrLzCJWfan0xMfc,C2,tor,38,3.846,146.2,0,,0.758,0,
+woMZNSvhTuUM9iHr,C2,tor,37,4.427,163.8,0,,0.938,0,
+4Xk7GiA7wKlXYOFC,C2,tor,38,3.314,125.9,0,,0.262,0,
+KEd8QX8vPheYNLWa,C2,tor,38,3.215,122.2,0,,0.175,0,
+bH3kByXDa4AGffal,C2,tor,37,3.715,137.5,0,,0.642,0,
+FGdIYppCpdhDL0AB,C2,tor,37,3.711,137.3,0,,0.621,0,
+AnNkYFlfm2KoGbPJ,C2,tor,37,3.727,137.9,0,,0.65,0,
+tORw8pQO4o9MwbLv,C2,tor,38,3.086,117.3,0,,0.029,0,
+rxOXo7QIYmNDeILW,C2,tor,37,3.591,132.9,0,,0.508,0,
+efAABN0J7QDl04FK,C2,tor,38,3.21,122.0,0,,0.171,0,
+4fQbddSqGmmI8pv7,C2,tor,37,3.279,121.3,0,,0.217,0,
+a4dIrueoaIig06w8,C2,tor,38,3.094,117.6,0,,0.038,0,
+axULPZTf8dhjj187,C2,tor,37,3.306,122.3,0,,0.25,0,
+quzKV2j7Pv198vCk,C2,tor,38,3.483,132.3,0,,0.433,0,
+M3c8wkLq07H7P297,C2,tor,37,3.519,130.2,0,,0.462,0,
+xQpobAu34JPyivQP,C2,tor,38,3.465,131.7,0,,0.396,0,
+pgaDhuN6FM87ngGb,C2,tor,38,3.599,136.8,0,,0.521,0,
+15D7zNsSi0n1ubIe,C2,tor,38,3.838,145.8,0,,0.746,0,
+60hpZ3AjnPwdeRxs,C2,tor,37,3.165,117.1,0,,0.133,0,
+CXFNrB8Bp1bxgVkR,C2,tor,37,3.937,145.7,0,,0.808,0,
+ONX9E8HVkOWzKRQr,C2,tor,37,3.503,129.6,0,,0.454,0,
+u6tdcrIzzlK5fv2q,C2,tor,37,3.168,117.2,0,,0.138,0,
+aEup683LiAyHQFm6,C2,tor,37,3.152,116.6,0,,0.129,0,
+jY8Y2WJ4k3hBiVSe,C2,tor,37,3.304,122.3,0,,0.238,0,
+a0JPNCv7UvkVo0Fa,C2,tor,37,3.336,123.5,0,,0.288,0,
+329cWyxvEYJxwUZ8,C2,tor,37,3.575,132.3,0,,0.504,0,
+Si9qyva3NfCIVTVC,C2,tor,37,3.295,121.9,0,,0.225,0,
+S1tRWPM84o32gZva,C2,tor,38,3.441,130.8,0,,0.371,0,
+VWDtqEWpvn5QHIJB,C2,tor,38,3.633,138.1,0,,0.533,0,
+SDilVVMORmmYzKDP,C2,tor,37,3.797,140.5,0,,0.679,0,
+WmVRjF7PdxyAl9EW,C2,tor,38,3.414,129.7,0,,0.338,0,
+RqvUA9dNPhJLokLK,C2,tor,38,3.421,130.0,0,,0.346,0,
+r5Ojd1At6srAfHUb,C2,tor,37,3.713,137.4,0,,0.633,0,
+TeSpPdaqeKr8xCNG,C2,tor,37,3.524,130.4,0,,0.471,0,
+hYhByyeJz9jHleSV,C2,tor,38,3.842,146.0,0,,0.75,0,
+EIRzTy2XPH9yIHVx,C2,tor,38,3.469,131.8,0,,0.404,0,
+uqzvnKHynX1LBX44,C2,firefox-rfp,38,3.706,140.8,0,,0.617,0,
+bysJEaVRd2z8sfzO,C2,firefox-rfp,38,3.208,121.9,0,,0.167,0,
+c1LGxdRNS70wN3J0,C2,firefox-rfp,38,3.184,121.0,0,,0.146,0,
+WEWXZ9Q7b70WIoDP,C2,firefox-rfp,38,3.806,144.6,0,,0.688,0,
+rLELHMr8HfQwu8VZ,C2,firefox-rfp,38,3.487,132.5,0,,0.438,0,
+0ePMC5GK1C67m77r,C2,firefox-rfp,38,3.722,141.4,0,,0.646,0,
+y6NyBpxofbgumnMk,C2,firefox-rfp,38,3.637,138.2,0,,0.546,0,
+3Gpdfd4A8y0s2cTs,C2,firefox-rfp,38,3.626,137.8,0,,0.529,0,
+mOnHmu3ed9nQtklN,C2,firefox-rfp,38,3.268,124.2,0,,0.208,0,
+msNaUroHXhyBjpxm,C2,firefox-rfp,38,4.308,163.7,0,,0.888,0,
+kRP0UoOaVWiNrU1B,C2,firefox-rfp,38,3.311,125.8,0,,0.258,0,
+0d2XvZV4Bww4ZlYe,C2,firefox-rfp,38,3.468,131.8,0,,0.4,0,
+QVjfOW3552sNZ7sr,C2,firefox-rfp,38,3.649,138.7,0,,0.567,0,
+j5kJACxiIEs3rAMZ,C2,firefox-rfp,38,3.474,132.0,0,,0.408,0,
+Si7hrHYnziJVtuHK,C2,firefox-rfp,38,3.272,124.3,0,,0.212,0,
+K5vF7oCnqVw4Vojo,C2,firefox-rfp,38,3.242,123.2,0,,0.188,0,
+LYM1dJIdkYnVJPpO,C2,firefox-rfp,38,3.617,137.5,0,,0.525,0,
+JtiLnPV2GIy4T1VC,C2,firefox-rfp,38,3.641,138.4,0,,0.554,0,
+2ovnDdYZrwWFRmnB,C2,firefox-rfp,38,3.069,116.6,0,,0.008,0,
+3KOq8YK5jyRlXxui,C2,firefox-rfp,38,3.199,121.6,0,,0.158,0,
+uFWLlMkFQ5h4qXkv,C2,firefox-rfp,38,4.486,170.5,0,,0.946,0,
+9RCwv2AsHRarlraQ,C2,firefox-rfp,38,3.412,129.7,0,,0.333,0,
+Us17rQMdhosb3TWM,C2,firefox-rfp,38,3.811,144.8,0,,0.696,0,
+y1hxmA3eGZEN1ZNi,C2,firefox-rfp,38,3.425,130.2,0,,0.35,0,
+QyL9FygubN5mgtcC,C2,firefox-rfp,38,3.681,139.9,0,,0.604,0,
+sm7bn86KxvPFKTwg,C2,firefox-rfp,38,3.075,116.8,0,,0.012,0,
+oOTRZ4qZluFbSNDz,C2,firefox-rfp,38,3.192,121.3,0,,0.15,0,
+lxtjUnaq2KzBwCy5,C2,firefox-rfp,38,3.112,118.3,0,,0.067,0,
+FZEqRNEMtB8SMt46,C2,firefox-rfp,38,3.599,136.8,0,,0.521,0,
+F3FwmKAmoPLS7lpD,C2,firefox-rfp,38,3.489,132.6,0,,0.442,0,
+3ubmmUwGay8srEjT,C2,firefox-rfp,38,3.091,117.4,0,,0.033,0,
+XblsHXrNAK7ewd50,C2,firefox-rfp,38,3.434,130.5,0,,0.358,0,
+nhyyNgz1AmUldeV0,C2,firefox-rfp,38,3.316,126.0,0,,0.279,0,
+0cJasSFGsnzd27vA,C2,firefox-rfp,38,3.828,145.4,0,,0.712,0,
+AHdWM8mSKNjz6cAd,C2,firefox-rfp,38,3.329,126.5,0,,0.283,0,
+fjHYGpxV5HYZrFYx,C2,firefox-rfp,38,4.456,169.3,0,,0.942,0,
+U9fbojdOomRZVgp4,C2,firefox-rfp,38,3.813,144.9,0,,0.7,0,
+B9ud8gE9kyrwzaAF,C2,firefox-rfp,38,3.25,123.5,0,,0.196,0,
+lrY9fTTVsAJzoa58,C2,firefox-rfp,38,3.654,138.9,0,,0.575,0,
+f8rVy4SCOcOFb9Oi,C2,firefox-rfp,38,3.076,116.9,0,,0.017,0,
+KciT8AIVJjBx6HtU,C3,chatgpt-cloud,37,6.975,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+2NP2wBaR4cqUh5vG,C3,chatgpt-cloud,37,7.028,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+CWwaWl1cHQ4gBjAu,C3,chatgpt-cloud,37,7.027,260.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+X6YasuYPt17mlE5w,C3,chatgpt-cloud,37,6.994,258.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+RywSGfHUdoBeJcl1,C3,chatgpt-cloud,37,7.025,259.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+6U5kPFjbXLcEjmWY,C3,chatgpt-cloud,37,7.034,260.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+kzT4yzOhwy5iGa1D,C3,chatgpt-cloud,37,6.975,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+SYol0maJbHZcexEB,C3,chatgpt-cloud,37,7.007,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+hlTAbjHOnSFXHMA8,C3,chatgpt-cloud,37,7.028,260.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+A9WlUq2eHSQPRRD6,C3,chatgpt-cloud,37,7.023,259.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+k1OewjTORKLigSFP,C3,chatgpt-cloud,37,7.004,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+LSlMOpKDQKSZ1ElL,C3,chatgpt-cloud,37,7.027,260.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+ljpNICjMKBH41pei,C3,chatgpt-cloud,37,6.664,246.6,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+a5Xxv9mLcr6hyiSJ,C3,chatgpt-cloud,37,6.968,257.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+E9D7EBYc4a4zebdk,C3,chatgpt-cloud,37,6.993,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+dRIAn5yqmYaxZTCA,C3,chatgpt-cloud,37,7.006,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+DqFY7VKXS9h0Raqi,C3,chatgpt-cloud,37,7.02,259.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+BOLzvRreen6z1rxm,C3,chatgpt-cloud,37,6.998,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+tsvtoI4FPxMH97MM,C3,chatgpt-cloud,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+kLr1ptXvyf9zZGL0,C3,chatgpt-cloud,37,7.016,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+UigcmIeqhebXMAuj,C3,chatgpt-cloud,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+pWNJNgSlmH3xC3rW,C3,chatgpt-cloud,37,7.038,260.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+VnzaUxlIMjWETIrA,C3,chatgpt-cloud,37,6.975,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+xMU2iQV8VLUeUYcc,C3,chatgpt-cloud,37,7.015,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+LBMpHllSv0umPasO,C3,chatgpt-cloud,37,6.991,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+TqIh8EHkr7MqCMXL,C3,chatgpt-cloud,37,6.999,259.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+ehKX2pTFXe1dp0bF,C3,chatgpt-cloud,37,6.997,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+17JSBFFSFTcMjMuV,C3,chatgpt-cloud,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Z08AyDIGwZJYcCAw,C3,chatgpt-cloud,37,7.024,259.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+iVoS3nOW2TR8Df1L,C3,chatgpt-cloud,37,6.996,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+CneV6lYmhVfqdWHU,C3,chatgpt-cloud,37,7.03,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+2TvzL5WzplLcDaLw,C3,chatgpt-cloud,37,6.984,258.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+BBL5Qt5df8oFvKQb,C3,chatgpt-cloud,37,7.012,259.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+nA2uHfFUOBDaeqBj,C3,chatgpt-cloud,37,7.001,259.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+GjxEozIU7IOOBeYi,C3,chatgpt-cloud,37,7.005,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+o2wMZmxJP0ULWRjK,C3,chatgpt-cloud,37,7.031,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+YUE7gpaeVlkob4UG,C3,chatgpt-cloud,37,6.966,257.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+g8EAT36fcGFPDgpm,C3,chatgpt-cloud,37,7.023,259.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+UlbyejEwbNCE66PF,C3,chatgpt-cloud,37,6.973,258.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+7Hn7wE58YVArUYrE,C3,chatgpt-cloud,37,7.037,260.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+oOTbJXVOa7LO0I5d,C3,browserbase,37,7.012,259.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+29GGJgON5JGOhyCI,C3,browserbase,37,7.005,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+pGOXgT8MQJ72Kaow,C3,browserbase,37,7.007,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+7GeGEErO1PL1VLSp,C3,browserbase,37,7.029,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+m5gldAfqInH2FYWr,C3,browserbase,37,6.964,257.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+deV8MP3FkyxATGG9,C3,browserbase,37,7.015,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+PsL2WQFI5hmJh93W,C3,browserbase,37,6.964,257.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Jer8LC2wP1UOQHs4,C3,browserbase,37,6.998,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+buck0ycv4tue9z5A,C3,browserbase,37,7.017,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+B8UnhZYBMetS7iqE,C3,browserbase,37,7.018,259.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Iw65SxNvWqdAziXH,C3,browserbase,37,6.992,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+arTE1APF3tFKRLXy,C3,browserbase,37,7.031,260.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+arrZeHfGOGMfR7IV,C3,browserbase,37,7.017,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+DTq7DO4mqtlyUXQi,C3,browserbase,37,3.711,137.3,1,fonts,0.621,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+fAHJi3JtloYyhe1i,C3,browserbase,37,7.021,259.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+wKvwrATIwMI5nJy0,C3,browserbase,37,6.997,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+QM14TzctQQfyaMuN,C3,browserbase,37,6.673,246.9,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+6PtU3dx8ZSG8H1mA,C3,browserbase,37,7.001,259.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+nbfirskhq1WmayKF,C3,browserbase,37,7.008,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+DZbG4hefMM4riZDj,C3,browserbase,37,7.025,259.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+3PNNh8fO3ZfOgPbd,C3,browserbase,37,7.031,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+iOYhWx1ShkPrjlTr,C3,browserbase,37,7.026,260.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+Tmew95YY25cOywPb,C3,browserbase,37,7.009,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+GPcKtKn5zxFLUW8S,C3,browserbase,37,7.024,259.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+oH4XpsTeLS2x9QEl,C3,browserbase,37,7.007,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+nKCNn4E2JtvYxwq6,C3,browserbase,37,7.009,259.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+iBPryUBNx7tMFtY3,C3,browserbase,37,6.99,258.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+g1B0Q0CpDqs22KRr,C3,browserbase,37,7.016,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+OvEHPeu7sQ0vH6um,C3,browserbase,37,7.043,260.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+3J2NQ3iJR8itJAhA,C3,browserbase,37,7.037,260.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+KgShKprl3FdfddJG,C3,browserbase,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+4IoZf6R1sPa73xOj,C3,browserbase,37,6.984,258.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+A83GiIurXGKBHu9p,C3,browserbase,37,6.982,258.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+E1zicFoPMdzRFrh4,C3,browserbase,37,7.022,259.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+CFeDM54bojuJitxm,C3,browserbase,37,7.003,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+YDRFTKS6qf19W3j8,C3,browserbase,37,7.031,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+W74oGM4tKJ83glq4,C3,browserbase,37,7.025,259.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+sbIrwlmxIxMNPA5t,C3,browserbase,37,7.007,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+sn4IVig4QuviEuIp,C3,browserbase,37,6.989,258.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+EmUH9dlChZR41hvU,C3,browserbase,37,7.004,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+sM6U8McovhEueEwK,C4,playwright-headless,37,6.972,258.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+vtEYWva3v7J4uwrJ,C4,playwright-headless,37,7.003,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+nrS5rEuwJfC0yQqv,C4,playwright-headless,37,6.991,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+opDVXJ6eebcY1Fi4,C4,playwright-headless,37,6.975,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+IMCnc17H9vv7ffxh,C4,playwright-headless,37,7.03,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+wr0es1cpgSw6GqvC,C4,playwright-headless,37,6.992,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+kiOktJDFVMUXQ9Mo,C4,playwright-headless,37,7.012,259.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+nHMIzvljlrOjK4eo,C4,playwright-headless,37,6.993,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Fvn9boSkLjy32B4P,C4,playwright-headless,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+RLVVGKLAXHWoz0Wg,C4,playwright-headless,37,7.044,260.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+N4QIKCXSI8i4Qnf5,C4,playwright-headless,37,3.697,136.8,1,fonts,0.612,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Tr8YZzOovmEWP25B,C4,playwright-headless,37,7.009,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+x1YfLs2o4c8wIL8M,C4,playwright-headless,37,7.015,259.5,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+qyhg7AeLWwmBCOLN,C4,playwright-headless,37,7.015,259.5,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+mgjFnpxfUFgjMjvL,C4,playwright-headless,37,6.962,257.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+471mafLBDI8mvMCc,C4,playwright-headless,37,7.037,260.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+AkWZRGrAtiIjid3w,C4,playwright-headless,37,6.966,257.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+QUBeAmysGgXlD8pM,C4,playwright-headless,37,6.681,247.2,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+02sYAYqoai0biP5A,C4,playwright-headless,37,6.987,258.5,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+3COWGsJQ0r3POyGb,C4,playwright-headless,37,6.984,258.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+33DG42LS2MGTjypV,C4,playwright-headless,37,7.034,260.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+HE9XQ4Luiv0HSLct,C4,playwright-headless,37,6.994,258.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+jv0BCtJjOY2TZqiL,C4,playwright-headless,37,6.977,258.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+OpMunekVmxgnSYL0,C4,playwright-headless,37,7.007,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+h16PRA3y4w3CjQv9,C4,playwright-headless,37,6.987,258.5,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+EFES8H1LPnMzliqb,C4,playwright-headless,37,7.02,259.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+OJc14SIu8Hh8FlYs,C4,playwright-headless,37,6.971,257.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+qpg2T3oC26gIQlaH,C4,playwright-headless,37,6.988,258.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+lL9b5YKojH4ruIHN,C4,playwright-headless,37,7.005,259.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+ycDInHGIFJltxtvi,C4,playwright-headless,37,7.02,259.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+HWrEq74Wu7iT2go3,C4,playwright-headless,37,6.965,257.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+7guoaErRqlpZQWhQ,C4,playwright-headless,37,7.031,260.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+6raSwGPMhdMuiTCk,C4,playwright-headless,37,7.009,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+yC0sTgpEtDES8bA4,C4,playwright-headless,37,6.958,257.5,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+GSvNbvu8G9oTXwrv,C4,playwright-headless,37,6.992,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+P9mMyHMddCTwret4,C4,playwright-headless,37,7.031,260.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+G9RdwY4S2r7vkaL3,C4,playwright-headless,37,6.668,246.7,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+5cNtyZMbFP2P0Dd6,C4,playwright-headless,37,7.028,260.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+0oXMhHs8EbHJpiJY,C4,playwright-headless,37,7.002,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+M5bbupqeLRygu79L,C4,playwright-headless,37,7.009,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+5tH3OduXsxIMnUeW,C4,comet,37,6.98,258.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+scooqIhVsfI3jV2K,C4,comet,37,3.607,133.5,1,fonts,0.521,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+6aWxT5Atvy7PzEmj,C4,comet,37,6.993,258.7,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+SbekWFmbKAoAnR7D,C4,comet,37,3.728,137.9,1,fonts,0.65,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+uVhoLRCE5AOeavUl,C4,comet,37,6.68,247.2,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+go1I2anP7HJx401U,C4,comet,37,6.977,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Zu4HnaB4zvwb04hd,C4,comet,37,3.689,136.5,1,fonts,0.608,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+OtTzs1VeRNxRCpF6,C4,comet,37,3.418,126.5,1,fonts,0.342,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+OzrszDLsxF3AKrrk,C4,comet,37,7.034,260.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+R59U0RBRja34n4qm,C4,comet,37,6.999,259.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+9gfV95eC7ama1uOM,C4,comet,37,6.659,246.4,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+HOqxQcaTR8LUWfV9,C4,comet,37,3.633,134.4,1,fonts,0.529,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+wOP3Icfa9ux19yKM,C4,comet,37,7.034,260.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+rLsGQ1QzXITRmt41,C4,comet,37,7.003,259.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+va9ygAms0Hs4WBnO,C4,comet,37,3.633,134.4,1,fonts,0.529,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+CpgzsKqkrqiR8wHM,C4,comet,37,6.682,247.2,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+S6Z1vhoNe9pSWNwt,C4,comet,37,6.701,247.9,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+glLdZZZCE4j1mcag,C4,comet,37,7.012,259.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+g3LZlOLUkpQaGHDb,C4,comet,37,3.421,126.6,1,fonts,0.342,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+cf9I2EwHnuhybMxr,C4,comet,37,7.034,260.2,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+cm2kJUAolDqjLbSY,C4,comet,37,3.418,126.5,1,fonts,0.342,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+19QZh7GXzUiyXWtY,C4,comet,37,6.984,258.4,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Kbd2dqc3qOyGxYJv,C4,comet,37,3.689,136.5,1,fonts,0.608,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+j3yOjaYUsXRgN7NW,C4,comet,37,7.017,259.6,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+nn4Jv26524nGmS46,C4,comet,37,6.98,258.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+JM9IUwtkpvq9hzFz,C4,comet,37,6.665,246.6,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+m9KAf6CjQDBB5Jhg,C4,comet,37,7.001,259.0,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+T9wnHRlYkZfpercB,C4,comet,37,3.458,127.9,1,fonts,0.392,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+PAkf9zAailM1C2e1,C4,comet,37,6.67,246.8,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+0OwpNfgpxsnvOs4g,C4,comet,37,6.998,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+LuGVF2RMwLnSIqNR,C4,comet,37,3.701,136.9,1,fonts,0.612,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+L7IChpX7jo9mff5F,C4,comet,37,7.009,259.3,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+3uXLJWwQbNWBQoSE,C4,comet,37,6.977,258.1,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+bTElyox5xJypCGjk,C4,comet,37,6.996,258.9,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+1bg9rQPEzLkZ2KR5,C4,comet,37,6.695,247.7,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+TQWRDKg0Jm8dJfCe,C4,comet,37,6.673,246.9,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+3o5vvaJJcvB5uS4v,C4,comet,37,3.416,126.4,1,fonts,0.342,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+BHMYjYqdEkX6eI4r,C4,comet,37,3.696,136.7,1,fonts,0.608,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+CoFcUwLJGIYVdrvt,C4,comet,37,6.685,247.3,25,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,4,ua_os=macOS & gpu_family=Intel; ua_os=macOS & font_os=Linux; ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7; ua_os=macOS & hardware_concurrency=4.0
+OUQQzWVekywfbZLF,C4,comet,37,6.994,258.8,27,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,3,ua_os=Windows & ttl_initial=64; ua_os=Windows & font_os=Linux; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+J7KbrxouhE8Vo8xi,C5,chatgpt-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+zVK9GBOcRWJ29ltj,C5,chatgpt-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+B996oBOplgva06Iz,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+a6OkdIVv7Iy2K9Oh,C5,chatgpt-user,4,1.987,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+oAnQtil8j1fbJjBF,C5,chatgpt-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+cVF4a7z4wGHe3kna,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+biCBygWdHWyBSMff,C5,chatgpt-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+EIL7xEEYKG31MDAv,C5,chatgpt-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+DuqPdOMcgI2mlBJh,C5,chatgpt-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+UMZm2wEDGdy7IEBx,C5,chatgpt-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+zVylMwtZY7XyMJE1,C5,chatgpt-user,4,1.987,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+rbwOn2EC4jjg3ugw,C5,chatgpt-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+m8RMmmzNe9LaoOfB,C5,chatgpt-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+8MvoLhGcqgBF3jdU,C5,chatgpt-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+qjTMCR3r3JxNGqHw,C5,chatgpt-user,4,1.987,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Zz3Uam7JErhwNLkP,C5,chatgpt-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+1WfzJ4LTcMaDMDgY,C5,chatgpt-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+R1JacCH1UIppqXuA,C5,chatgpt-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+yNCUnGU8eQvTn4w4,C5,chatgpt-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+vkNrsBlG4T0efKgX,C5,chatgpt-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+6XqFmqktE6ct6hnD,C5,chatgpt-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+Zwh1b3MUkEiRwDJI,C5,chatgpt-user,4,1.766,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Hp3drqybiXwUFRRA,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+SHtqbYDOw4oSrQk3,C5,chatgpt-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+D0zaHpRWaW2BNEBD,C5,chatgpt-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+Wnsp8X33icHQxtOX,C5,chatgpt-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+gCZs2ZFYwxDjsNEA,C5,chatgpt-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+fBEiRJ06tLUsUYxy,C5,chatgpt-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+EJenFzIEiKqwXzMO,C5,chatgpt-user,4,1.953,7.8,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+qeIvQbiNG6mJTbmW,C5,chatgpt-user,4,1.766,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+yTFhnTuGA2CWoDLs,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+O9C4Igqdu2ZgasXR,C5,chatgpt-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+A2x2znnAkek1QxKV,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+yS28IONIOb3di6P6,C5,chatgpt-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+z7kCSJqv3WURKeB3,C5,chatgpt-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+tPnKPpY8TMsS2rqN,C5,chatgpt-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+3ngRHZdhtqxDMF1v,C5,chatgpt-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+F8SJoYcPeZ5XfstP,C5,chatgpt-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+rmbGtwI8Q9Jxb2Vt,C5,chatgpt-user,4,1.766,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+iOpHSb2S5GodaCMH,C5,chatgpt-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+68nio4qd13Utv6PB,C5,perplexity-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+tb7XDUJp7Ya3FNWb,C5,perplexity-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+WxD3oo63pmYVxmso,C5,perplexity-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+SUkkMrjERQQ3ebdL,C5,perplexity-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+PQcgWMgz5pyBPnEs,C5,perplexity-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+qbGYrN31iERrKe5E,C5,perplexity-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+HzPGJrnMQXxUFYRu,C5,perplexity-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+I7zMbVLTjYN7Txmh,C5,perplexity-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+sdgAWWgHSeDou2c3,C5,perplexity-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+goEnGxaKmW7rkVQe,C5,perplexity-user,4,1.953,7.8,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+32bg9SjnuDYRwAej,C5,perplexity-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+o5TeaFMg22rmKvdf,C5,perplexity-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+BsqeBmcopbQSVWQF,C5,perplexity-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+baXGtl8KKLcbo41H,C5,perplexity-user,4,1.953,7.8,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+wdG45PdxTrk1c7op,C5,perplexity-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+3SOrMW0Wmtv6wpY8,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+m0NdV2bCbKWbwWcD,C5,perplexity-user,4,1.987,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+9VckhuOjaymALodf,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+fPL4cZCA8fPyqMcv,C5,perplexity-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+st53wxWPdJh8RaQQ,C5,perplexity-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+hjuEPs89u20Nz6Em,C5,perplexity-user,4,1.968,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+vAV3LFWUwv9Jx0Ty,C5,perplexity-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+5IcRQo8Rhl50wo4M,C5,perplexity-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+0G3YyNwmzNR3YdHX,C5,perplexity-user,4,2.156,8.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+Pe3trrEYIut0CBe0,C5,perplexity-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+z2xVbkCjX3W6RVKw,C5,perplexity-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+o3IlSMaRKoGhbMJb,C5,perplexity-user,4,2.05,8.2,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+pRbmEaumR5ad00I5,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+XnCHrNns4WPzzDZb,C5,perplexity-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+N4Nt2ykKDxz3O9lB,C5,perplexity-user,4,1.896,7.6,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+b1I3lpVqdi6cV7Ul,C5,perplexity-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Bs0l7Z4gco4jCHry,C5,perplexity-user,4,2.099,8.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+r7NK91jpDAtaNwu7,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+HjdhPrHYmGD6o7vu,C5,perplexity-user,4,1.784,7.1,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+qIm3iESeuIvEfYH2,C5,perplexity-user,4,1.953,7.8,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+EE2Y8Z9WUqWkESAs,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+Vi5UyhePhLGpmQqu,C5,perplexity-user,4,1.933,7.7,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+uSfAMwRqaxitoMex,C5,perplexity-user,4,1.847,7.4,0,,0.0,1,ua_os=macOS & ja4t=65535_2-4-8-1-3_1440_7
+XjD6PtSbctwR4R8Z,C5,perplexity-user,4,1.987,7.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+SWxurf6hHyF3IqDo,C5,perplexity-user,4,1.731,6.9,0,,0.0,2,ua_os=Windows & ttl_initial=64; ua_os=Windows & ja4t=65535_2-4-8-1-3_1440_7
+hLROu3uo2MwUKwpA,C6,adspower,37,7.643,282.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+75CVOdhwJdlnZ9FE,C6,adspower,37,7.658,283.3,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+7nioKrHlerRTaWf1,C6,adspower,37,7.637,282.6,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+IESv2bu7GgJeD0Ml,C6,adspower,37,7.632,282.4,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+RKzRXZA7M5FULqDN,C6,adspower,37,7.676,284.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+qbK4dU83Qi5Y9Si9,C6,adspower,37,7.69,284.5,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+iGK8272J0v2Mg7VC,C6,adspower,37,7.649,283.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+RyioCnYR11K3e1zb,C6,adspower,37,7.668,283.7,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+noxH0kSpACgqF0yU,C6,adspower,37,7.651,283.1,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+5CiSHrY6U1TdNJId,C6,adspower,37,7.642,282.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+eE4EVjY5Mtxcz2py,C6,adspower,37,7.665,283.6,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+m80ta298XV617E0r,C6,adspower,37,7.654,283.2,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+EMQPnua0pnrofkkM,C6,adspower,37,7.67,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+mKS28DwOgfa3S2VK,C6,adspower,37,7.688,284.5,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Cu8GtRkUkNyzOUna,C6,adspower,37,7.674,283.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+7udBwDkb3nA7x6Jz,C6,adspower,37,7.677,284.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+a5TtaZpAWxAvTy6A,C6,adspower,37,7.641,282.7,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+rzUyJaTRZXrarsid,C6,adspower,37,7.654,283.2,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+guqzeTfW5p6vjQNP,C6,adspower,37,7.67,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+QJMp9wZ0rXS6HxMR,C6,adspower,37,7.67,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+E67wEZCezYiSQ6LA,C6,adspower,37,7.679,284.1,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+OacbNH2rIjVzG5Ar,C6,adspower,37,7.647,282.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+xwRcsO3RZoVgMBNr,C6,adspower,37,7.655,283.3,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+6W8efMA7Rdm5S6xk,C6,adspower,37,7.645,282.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+02XMxgJlAD4EXAOT,C6,adspower,37,7.682,284.2,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Vt1sRzjuOSSuAm3u,C6,adspower,37,7.682,284.2,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+jEut63qoNaimYmLq,C6,adspower,37,7.676,284.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+TvznLifnOuyDfjOT,C6,adspower,37,7.671,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+pLa2oU8iVTkvJIrj,C6,adspower,37,7.669,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Yby930fW4DVszyB1,C6,adspower,37,7.649,283.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+jCiyvqSo3rCN3ydq,C6,adspower,37,7.672,283.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+tIfnrP9JrvjBA2Gd,C6,adspower,37,7.641,282.7,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+nNRcBckK9hv3bcOp,C6,adspower,37,7.65,283.1,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+BsIJPXzZNuNYprND,C6,adspower,37,7.659,283.4,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+ZJGf8Ggjg1BqmA0S,C6,adspower,37,7.645,282.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+gL1sUaYlFM8SIUOz,C6,adspower,37,7.677,284.0,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+aPpGSh8EHn6xvawI,C6,adspower,37,7.673,283.9,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+GjEGJQn1eggdFDR0,C6,adspower,37,7.671,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+id5VoAGeMGNbvUNd,C6,adspower,37,7.643,282.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+MX12Mzt9XE2sjGWx,C6,adspower,37,7.671,283.8,30,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,5,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+7ZhKU4IX5B1To9Le,C6,dolphin,37,7.425,274.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+vdfdVEjpuGGUxsIM,C6,dolphin,37,7.463,276.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+QjOWUzcW3lFXdtDz,C6,dolphin,37,7.459,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+84eFdZxJ10Vsrha6,C6,dolphin,37,7.478,276.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+nQGTMN2PSaf1vA4F,C6,dolphin,37,7.467,276.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+ZOdHGHWRoQs8L9ye,C6,dolphin,37,7.428,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+a7FfDd49D0IFm4Om,C6,dolphin,37,7.424,274.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+XnlL2jvYc6n07Efj,C6,dolphin,37,7.457,275.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+rUhbXIXH9o5fhkTC,C6,dolphin,37,7.46,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+V0liKd9MfPk4sUPu,C6,dolphin,37,7.428,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+9aXi422Gdh7pmsXg,C6,dolphin,37,7.428,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+UOr2FikTlfmoL40j,C6,dolphin,37,7.451,275.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+zd4zVbLpTUtFPJqc,C6,dolphin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+ySTagLlm3jGuRw8f,C6,dolphin,37,7.454,275.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+x53IFFRkUk5CTrkU,C6,dolphin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Fhigz1UB5VvSZ5zj,C6,dolphin,37,7.471,276.4,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+j6OgTsyLzqA070u1,C6,dolphin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+ZcIP68e8EtQ3quQ7,C6,dolphin,37,7.44,275.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+yLOg4XCDneZe0cP1,C6,dolphin,37,7.454,275.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+8vFS6pHz5aYYRBzy,C6,dolphin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+VvddU5F1Q9fnlKW7,C6,dolphin,37,7.44,275.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+VXf2q6v78aKo5hZh,C6,dolphin,37,7.457,275.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+9pcBp4iXB9KkxGko,C6,dolphin,37,7.454,275.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+UowZQJtwW8mWnAUO,C6,dolphin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+OlepzoMU3gMln6TP,C6,dolphin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+cZVfHMP9253Et6dQ,C6,dolphin,37,7.451,275.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Y9wFeYztkmQZLoFi,C6,dolphin,37,7.473,276.5,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+pIXyBZ5zwmeeqzu3,C6,dolphin,37,7.473,276.5,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+PaQykgFnaMv1yQEQ,C6,dolphin,37,7.46,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Squ4RHiWtULNWjda,C6,dolphin,37,7.427,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+rOg4lnNUtSjmfIRT,C6,dolphin,37,7.465,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+sxfrxjxuAC0up7A5,C6,dolphin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+xx3OLnwzBJ7oanmq,C6,dolphin,37,7.459,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+EBrKp0u3zPwYyMx5,C6,dolphin,37,7.457,275.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+SRPVHYhdJ2EA1jWt,C6,dolphin,37,7.46,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+ID3EbevIzJa3FRj6,C6,dolphin,37,7.429,274.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+CVOPdJXm2x8Z0XH1,C6,dolphin,37,7.467,276.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+9I6GCxbzwFfTLnmn,C6,dolphin,37,7.436,275.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+WBjArVpQSrzMSzy6,C6,dolphin,37,7.451,275.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+dn2LHHZ9eglnVPNC,C6,dolphin,37,7.436,275.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+F5wmlBUI4GBqEq0Q,C6,gologin,37,7.457,275.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+reaO7cVLG8wve7bv,C6,gologin,37,7.434,275.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+sKI6k4tfWEjqDANt,C6,gologin,37,7.452,275.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+kIcpJFcP1sf8QKFy,C6,gologin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+1jKgOHfr54L8epJo,C6,gologin,37,7.454,275.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Ep040jb4IBcYAac1,C6,gologin,37,7.456,275.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+GSScwXI0DuJIZYNW,C6,gologin,37,7.446,275.5,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+EFnpdWgdc7uYfXCN,C6,gologin,37,7.46,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+Uu8ZoK7TeWihflla,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+A1QT0OxFUXaFqT2c,C6,gologin,37,7.471,276.4,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+g4UXEwG8CDa2DJAh,C6,gologin,37,7.462,276.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+2okcIFllmFODc7FZ,C6,gologin,37,7.468,276.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+IcveU0KBJOrPNjGb,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+ymg16aiYpMzyMeOc,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+K3AEqOzXg97vKEav,C6,gologin,37,7.469,276.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+L1itNBaas8BD9ezN,C6,gologin,37,7.428,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+jt46UJOqxF606i9g,C6,gologin,37,7.451,275.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+4zjVYgN4FjaMO4yR,C6,gologin,37,7.423,274.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+T6VDwYrgneZ1q6T2,C6,gologin,37,7.425,274.7,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+0vxVzFZ9ddhVOJo1,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+ilDxBvA0QKLouGr5,C6,gologin,37,7.466,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+7uu317iyptwMwBJN,C6,gologin,37,7.428,274.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+Y32nC65EHaNUbjkl,C6,gologin,37,7.46,276.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+FbzqYXt5GK3KLGGz,C6,gologin,37,7.429,274.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+LnL1h44hMBib6Xmw,C6,gologin,37,7.472,276.5,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+RMnUgs3ylGaWFYZL,C6,gologin,37,7.423,274.6,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+IcGg3khWqsluR8v7,C6,gologin,37,7.463,276.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+FEPBjCUqVXjjqyNP,C6,gologin,37,7.436,275.1,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+p0maWJQkcpYiKTzl,C6,gologin,37,7.454,275.8,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+3zxNyU8X03nZlMnn,C6,gologin,37,7.442,275.4,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+mLFeHnDo3Zu82GXr,C6,gologin,37,7.429,274.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+qlWrFidFk4taNcYP,C6,gologin,37,7.442,275.4,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+rVDbu1ogAkilhOvD,C6,gologin,37,7.464,276.2,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+yvRCgkC5r3Bdmf7g,C6,gologin,37,7.43,274.9,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+ucyzQutGhYZE3lTU,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+LZLMi5zEF5IWnf3x,C6,gologin,37,7.433,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+mFP3euQaxB8nICzB,C6,gologin,37,7.445,275.5,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+t2PnvM3Kp41I9uCZ,C6,gologin,37,7.431,275.0,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,1,gpu_family=NVIDIA & hardware_concurrency=16.0
+qxy52JhVeQt2CQ1e,C6,gologin,37,7.47,276.4,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0
+RQA2sibIXb6VWbxe,C6,gologin,37,7.468,276.3,29,"h:canvasWebgl, h:canvas2d, h:mimeTypes",1.0,6,ua_os=macOS & gpu_family=NVIDIA; ua_os=macOS & ttl_initial=128; ua_os=macOS & font_os=Windows; ua_os=macOS & ja4t=64240_2-4-8-1-3_1460_8; ua_os=macOS & hardware_concurrency=16.0; gpu_family=NVIDIA & hardware_concurrency=16.0

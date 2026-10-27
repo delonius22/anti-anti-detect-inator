@@ -1,0 +1,7 @@
+tool,cohort,field,value,share_in_tool,share_elsewhere,tool_visits
+adspower,C6,ja4t,64240_2-4-8-1-3_1460_7,1.0,0.0,40
+adspower,C6,non_native,adspower-hook;get userAgent,1.0,0.0,40
+dolphin,C6,non_native,dolphin-hook;get userAgent,1.0,0.0,40
+gologin,C6,webgl_renderer,"ANGLE (NVIDIA, GeForce RTX 4070)",1.0,0.0,40
+gologin,C6,non_native,gologin-hook;get userAgent,1.0,0.0,40
+gologin,C6,creep_gpu,"ANGLE (NVIDIA, GeForce RTX 4070)",1.0,0.0,40

@@ -1,0 +1,8 @@
+[Unit]
+Description=Refresh IP databases and bot IP lists for the capture app
+
+[Service]
+Type=oneshot
+EnvironmentFile=/etc/capture-app.env
+ExecStart=/opt/capture-app/deploy/update-geoip.sh
+ExecStart=/usr/bin/runuser -u capture -- /usr/bin/node /opt/capture-app/scripts/update-bot-ips.js

@@ -1,0 +1,19 @@
+[Unit]
+Description=Agent / anti-detect capture app (behind nginx-measure)
+After=network-online.target
+
+[Service]
+User=capture
+Group=capture
+WorkingDirectory=/opt/capture-app
+EnvironmentFile=/etc/capture-app.env
+ExecStart=/usr/bin/node server/capture-app.js
+Restart=on-failure
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/capture-app
+
+[Install]
+WantedBy=multi-user.target

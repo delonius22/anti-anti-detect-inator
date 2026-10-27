@@ -1,0 +1,983 @@
+[
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 4645.0,
+    "synHops": 8.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.00020028902787390585,
+   "agent": 0.99976029731395,
+   "antidetect": 3.9413658176071075e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C1-prototype-lies",
+    "C7-privacy-browser"
+   ],
+   "server": {
+    "tcpRttUs": 20223.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 16.0,
+     "click": {
+      "offsetPx": 28.050570207447635
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 12.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 3.245720765249435
+   }
+  },
+  "expected": {
+   "human": 0.9987855550655322,
+   "agent": 0.00038564182561355093,
+   "antidetect": 0.0008288031088540833
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C7-privacy-browser"
+   ],
+   "server": {
+    "tcpRttUs": 54485.0,
+    "synHops": 10.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 70.0,
+     "click": {
+      "offsetPx": 28.562596520173333
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 2.535252447666035
+   }
+  },
+  "expected": {
+   "human": 0.9995516061640439,
+   "agent": 0.0004307038406775223,
+   "antidetect": 1.7689995278574487e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 10840.0,
+    "synHops": 10.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.00015499076834457848,
+   "agent": 0.9998087599020296,
+   "antidetect": 3.6249329625925484e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C7-privacy-browser",
+    "J12-timezone-vs-ip"
+   ],
+   "server": {
+    "tcpRttUs": 38047.0,
+    "synHops": 11.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 23.0,
+     "click": {
+      "offsetPx": 18.66449416923961
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 1.5187461742705803
+   }
+  },
+  "expected": {
+   "human": 0.9998637986424949,
+   "agent": 0.00012130518788320863,
+   "antidetect": 1.4896169621947941e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C1-prototype-lies",
+    "C10-timezone-lied",
+    "C12-worker-ua-vs-http-ua",
+    "J10-fonts-vs-ua-os",
+    "J5-patched-apis",
+    "J8-worker-vs-page"
+   ],
+   "server": {
+    "tcpRttUs": 35759.0,
+    "synHops": 6.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 50.0,
+     "click": {
+      "offsetPx": 10.643407780576739
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 18.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 1.7791450412655279
+   }
+  },
+  "expected": {
+   "human": 1.5393846948680576e-06,
+   "agent": 7.836889394414725e-06,
+   "antidetect": 0.9999906237259107
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 7362.0,
+    "synHops": 11.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.00013438181818573735,
+   "agent": 0.9998286427433837,
+   "antidetect": 3.6975438430427614e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C4-worker-lied",
+    "C5-features-vs-version",
+    "F1-fpjs-id-unstable",
+    "H4-rtt-gap",
+    "J6-canvas-noise"
+   ],
+   "server": {
+    "tcpRttUs": 28237.0,
+    "synHops": 6.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 20.0,
+     "click": {
+      "offsetPx": 13.748959921691842
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 128.5656620656115
+   }
+  },
+  "expected": {
+   "human": 0.000655499775863489,
+   "agent": 0.00039150512431280137,
+   "antidetect": 0.9989529950998236
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 14242.0,
+    "synHops": 6.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.0002680299795113882,
+   "agent": 0.9996950464662416,
+   "antidetect": 3.6923554246849817e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C7-privacy-browser",
+    "H4-rtt-gap",
+    "N3-datacenter-asn",
+    "X4-language-vs-ip-country"
+   ],
+   "server": {
+    "tcpRttUs": 40725.0,
+    "synHops": 13.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 72.0,
+     "click": {
+      "offsetPx": 26.99949767079249
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 155.21502872795196
+   }
+  },
+  "expected": {
+   "human": 0.9967150342449956,
+   "agent": 0.0022405362674756796,
+   "antidetect": 0.0010444294875286764
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "J4-software-gpu",
+    "N3-datacenter-asn"
+   ],
+   "server": {
+    "tcpRttUs": 10504.0,
+    "synHops": 10.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 34.0,
+     "click": {
+      "offsetPx": 17.654923369508996
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 1.6610368739790364
+   }
+  },
+  "expected": {
+   "human": 0.032243473213239844,
+   "agent": 0.9674106019512982,
+   "antidetect": 0.00034592483546188143
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 7918.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.00023151381752094079,
+   "agent": 0.9997302086670601,
+   "antidetect": 3.8277515418933004e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C7-privacy-browser",
+    "H4-rtt-gap",
+    "J12-timezone-vs-ip"
+   ],
+   "server": {
+    "tcpRttUs": 29170.0,
+    "synHops": 13.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 22.0,
+     "click": {
+      "offsetPx": 11.013269312492337
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 156.58598707675287
+   }
+  },
+  "expected": {
+   "human": 0.9972461967342484,
+   "agent": 0.000263170420220666,
+   "antidetect": 0.0024906328455310046
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "B1-pointer-jump",
+    "C3-stealth-patches",
+    "J1-webdriver",
+    "J4-software-gpu",
+    "N3-datacenter-asn"
+   ],
+   "server": {
+    "tcpRttUs": 5693.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 49.0,
+     "click": {
+      "offsetPx": 12.000308522337642
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 20.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 0.7084290403931652
+   }
+  },
+  "expected": {
+   "human": 9.093387667174714e-07,
+   "agent": 0.9999976642515463,
+   "antidetect": 1.4264096867962866e-06
+  }
+ },
+ {
+  "visit": {
+   "flags": [],
+   "server": {
+    "tcpRttUs": 20179.0,
+    "synHops": 9.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 3.0,
+     "click": {
+      "offsetPx": 28.81263580201346
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 2.2964916367880948
+   }
+  },
+  "expected": {
+   "human": 0.9542342086832762,
+   "agent": 0.04363709067653194,
+   "antidetect": 0.0021287006401916066
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N2-declared-bot-verified",
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 5466.0,
+    "synHops": 10.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.00015311203262436605,
+   "agent": 0.9998087053851319,
+   "antidetect": 3.818258224377016e-05
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C1-prototype-lies",
+    "C11-component-lied",
+    "F1-fpjs-id-unstable",
+    "H4-rtt-gap",
+    "J11-webrtc-ip-mismatch",
+    "J5-patched-apis",
+    "J6-canvas-noise",
+    "J8-worker-vs-page"
+   ],
+   "server": {
+    "tcpRttUs": 28133.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 53.0,
+     "click": {
+      "offsetPx": 28.494955343327817
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 18.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 128.94249503302075
+   }
+  },
+  "expected": {
+   "human": 3.681622779676614e-07,
+   "agent": 1.481263666234196e-07,
+   "antidetect": 0.9999994837113554
+  }
+ },
+ {
+  "visit": {
+   "flags": [],
+   "server": {
+    "tcpRttUs": 33945.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 17.0,
+     "click": {
+      "offsetPx": 11.816995817208118
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 10.24482447110713
+   }
+  },
+  "expected": {
+   "human": 0.9248673470976349,
+   "agent": 0.0717675095745798,
+   "antidetect": 0.0033651433277854218
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C4-worker-blocked",
+    "C7-privacy-browser",
+    "H4-rtt-gap",
+    "J12-timezone-vs-ip",
+    "N3-datacenter-asn"
+   ],
+   "server": {
+    "tcpRttUs": 12145.0,
+    "synHops": 7.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 65.0,
+     "click": {
+      "offsetPx": 15.979397824973189
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 70.20910673752579
+   }
+  },
+  "expected": {
+   "human": 0.9994286656813801,
+   "agent": 0.00028672166782426706,
+   "antidetect": 0.00028461265079565544
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "B1-pointer-jump"
+   ],
+   "server": {
+    "tcpRttUs": 39214.0,
+    "synHops": 8.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 0.0,
+     "click": {
+      "offsetPx": 3.5533702600140904
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 1.5086401609259292
+   }
+  },
+  "expected": {
+   "human": 0.019760129238872937,
+   "agent": 0.9787116210671303,
+   "antidetect": 0.0015282496939967906
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C1-prototype-lies",
+    "C11-component-lied",
+    "C4-worker-lied",
+    "C5-features-vs-version",
+    "H4-rtt-gap",
+    "J6-canvas-noise",
+    "J7-gpu-vs-ua-os"
+   ],
+   "server": {
+    "tcpRttUs": 58644.0,
+    "synHops": 10.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 8.0,
+     "click": {
+      "offsetPx": 14.283921934991824
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 1.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 108.6901055004002
+   }
+  },
+  "expected": {
+   "human": 9.400797688682227e-05,
+   "agent": 4.902545652749773e-05,
+   "antidetect": 0.9998569665665856
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C1-many-lies",
+    "C1-prototype-lies",
+    "C12-worker-scope-vs-page",
+    "H4-rtt-gap",
+    "J11-webrtc-ip-mismatch",
+    "J5-patched-apis",
+    "J6-canvas-noise",
+    "J8-worker-vs-page",
+    "X3-ttl-vs-ua-os"
+   ],
+   "server": {
+    "tcpRttUs": 48523.0,
+    "synHops": 6.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 11.0,
+     "click": {
+      "offsetPx": 20.051379177195425
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 64.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 72.18802393948303
+   }
+  },
+  "expected": {
+   "human": 3.8133354763538074e-09,
+   "agent": 4.5783510086483254e-09,
+   "antidetect": 0.9999999916083137
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "B1-pointer-jump",
+    "C2-headless-traits",
+    "C2-like-headless",
+    "J1-webdriver",
+    "J3-headless-ua",
+    "J4-software-gpu"
+   ],
+   "server": {
+    "tcpRttUs": 28304.0,
+    "synHops": 13.0,
+    "geo": {
+     "hosting": false
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 14.0,
+     "click": {
+      "offsetPx": 7.911603313804109
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 33.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 3.7503533069008426
+   }
+  },
+  "expected": {
+   "human": 3.293229903193658e-07,
+   "agent": 0.999994905748636,
+   "antidetect": 4.764928373747847e-06
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "C7-privacy-browser",
+    "H4-rtt-gap",
+    "J12-timezone-vs-ip",
+    "N3-datacenter-asn",
+    "X4-language-vs-ip-country"
+   ],
+   "server": {
+    "tcpRttUs": 52041.0,
+    "synHops": 13.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": {
+    "flags": [],
+    "behaviour": {
+     "moves": 16.0,
+     "click": {
+      "offsetPx": 16.429135250100735
+     }
+    },
+    "raw": {
+     "creep": {
+      "lies": {
+       "total": 0.0
+      },
+      "headless": {
+       "headless": 0.0,
+       "stealth": 0.0
+      }
+     }
+    }
+   },
+   "hop": {
+    "gapMs": 156.89447967891272
+   }
+  },
+  "expected": {
+   "human": 0.9982787109374767,
+   "agent": 0.0006750323576354157,
+   "antidetect": 0.0010462567048879698
+  }
+ },
+ {
+  "visit": {
+   "flags": [
+    "N3-datacenter-asn",
+    "N8-no-javascript"
+   ],
+   "server": {
+    "tcpRttUs": 6416.0,
+    "synHops": 9.0,
+    "geo": {
+     "hosting": true
+    }
+   },
+   "client": null,
+   "hop": {
+    "gapMs": null
+   }
+  },
+  "expected": {
+   "human": 0.0005366697520878777,
+   "agent": 0.9993940691218766,
+   "antidetect": 6.926112603537811e-05
+  }
+ }
+]

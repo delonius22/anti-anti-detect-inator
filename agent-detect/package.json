@@ -1,0 +1,38 @@
+{
+  "name": "anti-anti-detect-inator",
+  "version": "1.0.0",
+  "description": "The Anti-Anti-Detect-inator: identifies AI agents and anti-detect browsers on a direct-to-origin measurement host",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/verify.test.js",
+    "e2e": "node test/e2e.test.js",
+    "demo": "node server/demo.js",
+    "capture": "node server/capture-app.js",
+    "test:capture": "node test/capture.e2e.js",
+    "test:geo": "node test/geo.test.js",
+    "dev": "node scripts/dev.js",
+    "test:model": "node test/model.test.js",
+    "test:probes": "node test/probes.test.js",
+    "build:probes": "npm --prefix vendor/creepjs ci && npm --prefix vendor/creepjs run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "5.3.0",
+    "express": "^4.22.3",
+    "maxmind": "^4.3.29",
+    "web-bot-auth": "^0.2.0",
+    "ws": "^8.22.0"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

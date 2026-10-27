@@ -1,0 +1,16 @@
+[Unit]
+Description=nginx for the measurement hostname (JA4 + SYN capture)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=forking
+PIDFile=/run/nginx-measure.pid
+ExecStartPre=/opt/nginx-measure/sbin/nginx -t -c /etc/nginx-measure/nginx.conf
+ExecStart=/opt/nginx-measure/sbin/nginx -c /etc/nginx-measure/nginx.conf
+ExecReload=/opt/nginx-measure/sbin/nginx -c /etc/nginx-measure/nginx.conf -s reload
+ExecStop=/opt/nginx-measure/sbin/nginx -c /etc/nginx-measure/nginx.conf -s quit
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

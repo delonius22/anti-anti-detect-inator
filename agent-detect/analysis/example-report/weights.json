@@ -1,0 +1,79 @@
+{
+  "agent": {
+    "threshold": 5,
+    "weights": {
+      "B1-pointer-jump": 5,
+      "B2-dead-centre-click": 3,
+      "B3-untrusted-events": 3,
+      "C2-headless-traits": 2,
+      "C2-like-headless": 1,
+      "C6-bot-pattern": 1,
+      "J1-webdriver": 2,
+      "J10-fonts-vs-ua-os": 1,
+      "J10-linux-fonts": 1,
+      "J3-headless-ua": 1,
+      "J4-software-gpu": 3,
+      "N2-declared-bot-verified": 3,
+      "N3-datacenter-asn": 4,
+      "N8-no-javascript": 3,
+      "X1-ua-vs-client-hints": 1
+    },
+    "negative_coefficients": {
+      "C4-worker-blocked": -0.8800904004811346,
+      "H4-rtt-gap": -1.3075585580496945,
+      "J12-timezone-vs-ip": -1.1959253770764622,
+      "X4-language-vs-ip-country": -0.8794335817817983
+    },
+    "split": "by run date: 2026-09-14..2026-10-13 fit, 2026-10-14..2026-10-25 test",
+    "test": {
+      "precision": 1.0,
+      "recall": 0.9180327868852459,
+      "fpr_c1": 0.0,
+      "fpr_c2": 0.0,
+      "tp": 56,
+      "fp": 0,
+      "fn": 5
+    },
+    "message": ""
+  },
+  "antidetect": {
+    "threshold": 10,
+    "weights": {
+      "C1-many-lies": 1,
+      "C1-prototype-lies": 5,
+      "C10-timezone-lied": 2,
+      "C11-component-lied": 2,
+      "C12-worker-scope-vs-page": 5,
+      "C12-worker-ua-vs-http-ua": 2,
+      "C4-worker-lied": 1,
+      "C5-features-vs-version": 3,
+      "F1-fpjs-id-unstable": 5,
+      "H4-rtt-gap": 5,
+      "J10-fonts-vs-ua-os": 2,
+      "J5-patched-apis": 4,
+      "J6-canvas-noise": 4,
+      "J7-gpu-vs-ua-os": 1,
+      "J8-worker-vs-page": 4,
+      "J9-engine-older-than-claimed": 2,
+      "X3-ttl-vs-ua-os": 1
+    },
+    "negative_coefficients": {
+      "C4-worker-blocked": -0.24585765153321815,
+      "C7-privacy-browser": -1.8139158599681804,
+      "J12-timezone-vs-ip": -0.10645131045888091,
+      "N3-datacenter-asn": -0.3336780427712854,
+      "X4-language-vs-ip-country": -0.2923804745841258
+    },
+    "split": "by run date: 2026-09-14..2026-10-13 fit, 2026-10-14..2026-10-25 test",
+    "test": {
+      "precision": 1.0,
+      "recall": 0.967741935483871,
+      "fpr_c1": 0.0,
+      "fpr_c2": 0.0,
+      "tp": 30,
+      "fp": 0,
+      "fn": 1
+    },
+    "message": ""
+  }
+}
